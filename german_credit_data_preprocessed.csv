@@ -1,0 +1,1001 @@
+idade,sexo,trabalho,moradia,conta_poupanca,conta_corrente,quantidade_credito,duracao,objetivo,pagamento_realizado
+67,masculino,2,própria,não possui,pouco,1169,6,rádio/TV,1.0
+22,feminino,2,própria,pouco,moderado,5951,48,rádio/TV,0.0
+49,masculino,1,própria,pouco,não possui,2096,12,educação,0.0
+45,masculino,2,gratuita,pouco,pouco,7882,42,móveis/equipamentos,0.0
+53,masculino,2,gratuita,pouco,pouco,4870,24,carro,0.0
+35,masculino,1,gratuita,não possui,não possui,9055,36,educação,0.0
+53,masculino,2,própria,bastante,não possui,2835,24,móveis/equipamentos,0.0
+35,masculino,3,alugada,pouco,moderado,6948,36,carro,0.0
+61,masculino,1,própria,rico,não possui,3059,12,rádio/TV,0.0
+28,masculino,3,própria,pouco,moderado,5234,30,carro,0.0
+25,feminino,2,alugada,pouco,moderado,1295,12,carro,
+24,feminino,2,alugada,pouco,pouco,4308,48,negócios,0.0
+22,feminino,2,própria,pouco,moderado,1567,12,rádio/TV,0.0
+60,masculino,1,própria,pouco,pouco,1199,24,carro,0.0
+28,feminino,2,alugada,pouco,pouco,1403,15,carro,0.0
+32,feminino,1,própria,moderado,pouco,1282,24,rádio/TV,0.0
+53,masculino,2,própria,não possui,não possui,2424,24,rádio/TV,0.0
+25,masculino,2,própria,não possui,pouco,8072,30,negócios,1.0
+44,feminino,3,gratuita,pouco,moderado,12579,24,carro,0.0
+31,masculino,2,própria,bastante,não possui,3430,24,rádio/TV,0.0
+48,masculino,2,própria,pouco,não possui,2134,9,carro,1.0
+44,masculino,2,alugada,bastante,pouco,2647,6,rádio/TV,1.0
+48,masculino,1,alugada,pouco,pouco,2241,10,carro,1.0
+44,masculino,2,própria,moderado,moderado,1804,12,carro,
+26,masculino,2,própria,não possui,não possui,2069,10,móveis/equipamentos,1.0
+36,masculino,1,própria,pouco,pouco,1374,6,móveis/equipamentos,1.0
+39,masculino,1,própria,pouco,não possui,426,6,rádio/TV,1.0
+42,feminino,2,alugada,rico,rico,409,12,rádio/TV,1.0
+34,masculino,2,própria,pouco,moderado,2415,7,rádio/TV,1.0
+63,masculino,2,própria,pouco,pouco,6836,60,negócios,0.0
+36,masculino,2,própria,rico,moderado,1913,18,negócios,
+27,masculino,2,própria,pouco,pouco,4020,24,móveis/equipamentos,1.0
+30,masculino,2,própria,moderado,moderado,5866,18,carro,0.0
+57,masculino,1,alugada,não possui,não possui,1264,12,negócios,0.0
+33,feminino,3,própria,pouco,rico,1474,12,móveis/equipamentos,0.0
+25,masculino,1,própria,pouco,moderado,4746,45,rádio/TV,0.0
+31,masculino,2,gratuita,pouco,não possui,6110,48,educação,0.0
+37,masculino,2,própria,pouco,rico,2100,18,rádio/TV,0.0
+37,masculino,2,própria,pouco,rico,1225,10,eletrodomésticos,1.0
+24,masculino,2,própria,pouco,moderado,458,9,rádio/TV,
+30,masculino,3,própria,bastante,não possui,2333,30,rádio/TV,0.0
+26,masculino,2,própria,bastante,moderado,1158,12,rádio/TV,1.0
+44,masculino,1,própria,pouco,moderado,6204,18,reparos,0.0
+24,masculino,2,alugada,moderado,pouco,6187,30,carro,1.0
+58,feminino,1,gratuita,pouco,pouco,6143,48,carro,0.0
+35,feminino,3,própria,pouco,não possui,1393,11,carro,1.0
+39,masculino,2,própria,bastante,não possui,2299,36,rádio/TV,0.0
+23,feminino,0,alugada,bastante,pouco,1352,6,carro,1.0
+39,masculino,1,própria,pouco,não possui,7228,11,carro,0.0
+28,feminino,2,própria,moderado,não possui,2073,12,rádio/TV,0.0
+29,masculino,1,própria,não possui,moderado,2333,24,móveis/equipamentos,0.0
+30,masculino,3,própria,pouco,moderado,5965,27,carro,0.0
+25,masculino,2,própria,pouco,não possui,1262,12,rádio/TV,1.0
+31,masculino,2,própria,não possui,não possui,3378,18,carro,0.0
+57,masculino,2,gratuita,pouco,moderado,2225,36,carro,
+26,masculino,1,própria,não possui,não possui,783,6,carro,1.0
+52,masculino,3,própria,não possui,moderado,6468,12,rádio/TV,1.0
+31,feminino,2,própria,pouco,não possui,9566,36,rádio/TV,0.0
+23,feminino,3,própria,pouco,rico,1961,18,carro,0.0
+23,feminino,1,alugada,pouco,pouco,6229,36,móveis/equipamentos,
+27,masculino,2,própria,pouco,moderado,1391,9,negócios,1.0
+50,masculino,2,própria,não possui,moderado,1537,15,rádio/TV,0.0
+61,masculino,3,gratuita,pouco,moderado,1953,36,negócios,1.0
+25,masculino,2,própria,pouco,moderado,14421,48,negócios,
+26,feminino,2,própria,pouco,não possui,3181,24,rádio/TV,0.0
+48,masculino,2,própria,não possui,não possui,5190,27,reparos,0.0
+29,feminino,2,própria,pouco,não possui,2171,12,rádio/TV,
+22,masculino,2,própria,rico,moderado,1007,12,carro,
+37,masculino,2,gratuita,pouco,não possui,1819,36,educação,0.0
+25,feminino,2,própria,não possui,não possui,2394,36,rádio/TV,0.0
+30,feminino,2,própria,pouco,não possui,8133,36,carro,
+46,masculino,1,alugada,não possui,não possui,730,7,rádio/TV,1.0
+51,masculino,3,gratuita,pouco,pouco,1164,8,férias/outros,1.0
+41,feminino,1,própria,pouco,moderado,5954,42,negócios,0.0
+40,masculino,3,própria,não possui,pouco,1977,36,educação,0.0
+66,masculino,3,gratuita,pouco,pouco,1526,12,carro,1.0
+34,masculino,2,própria,pouco,pouco,3965,42,rádio/TV,
+51,masculino,2,própria,pouco,moderado,4771,11,rádio/TV,1.0
+39,masculino,1,própria,não possui,não possui,9436,54,carro,0.0
+22,masculino,2,própria,pouco,moderado,3832,30,móveis/equipamentos,1.0
+44,feminino,2,própria,não possui,não possui,5943,24,rádio/TV,1.0
+47,masculino,2,própria,bastante,não possui,1213,15,rádio/TV,0.0
+24,feminino,1,alugada,moderado,não possui,1568,18,negócios,1.0
+58,feminino,1,própria,pouco,pouco,1755,24,férias/outros,0.0
+52,masculino,1,própria,pouco,pouco,2315,10,rádio/TV,1.0
+29,feminino,3,própria,pouco,não possui,1412,12,negócios,0.0
+27,feminino,2,própria,pouco,moderado,1295,18,móveis/equipamentos,0.0
+47,masculino,2,gratuita,moderado,moderado,12612,36,educação,1.0
+30,masculino,3,própria,moderado,pouco,2249,18,carro,
+28,masculino,2,própria,pouco,pouco,1108,12,reparos,1.0
+56,masculino,2,própria,pouco,não possui,618,12,rádio/TV,0.0
+54,masculino,2,própria,pouco,pouco,1409,12,carro,0.0
+33,feminino,1,própria,não possui,não possui,797,12,rádio/TV,0.0
+20,masculino,2,alugada,não possui,rico,3617,24,móveis/equipamentos,1.0
+54,masculino,2,própria,rico,moderado,1318,12,carro,0.0
+58,masculino,2,alugada,pouco,moderado,15945,54,negócios,1.0
+61,feminino,2,própria,não possui,não possui,2012,12,educação,
+34,masculino,2,própria,moderado,moderado,2622,18,negócios,0.0
+36,masculino,2,própria,pouco,moderado,2337,36,rádio/TV,0.0
+36,masculino,3,alugada,não possui,moderado,7057,20,carro,0.0
+41,masculino,1,alugada,moderado,não possui,1469,24,carro,0.0
+24,masculino,2,alugada,pouco,moderado,2323,36,rádio/TV,
+24,feminino,2,própria,pouco,não possui,932,6,rádio/TV,1.0
+35,masculino,2,alugada,pouco,moderado,1919,9,móveis/equipamentos,1.0
+26,masculino,2,alugada,não possui,não possui,2445,12,carro,1.0
+39,masculino,3,própria,pouco,moderado,11938,24,férias/outros,0.0
+39,masculino,3,própria,pouco,não possui,6458,18,carro,0.0
+32,masculino,2,própria,pouco,moderado,6078,12,carro,
+30,feminino,2,própria,não possui,pouco,7721,24,móveis/equipamentos,0.0
+35,masculino,2,própria,bastante,moderado,1410,14,negócios,0.0
+31,masculino,2,própria,moderado,moderado,1449,6,negócios,1.0
+23,feminino,2,alugada,pouco,rico,392,15,educação,0.0
+28,masculino,1,alugada,pouco,moderado,6260,18,carro,0.0
+25,feminino,2,própria,pouco,não possui,7855,36,carro,0.0
+35,masculino,2,própria,bastante,pouco,1680,12,rádio/TV,0.0
+47,masculino,2,própria,não possui,não possui,3578,48,rádio/TV,0.0
+30,feminino,3,própria,não possui,pouco,7174,42,rádio/TV,0.0
+27,feminino,2,alugada,não possui,pouco,2132,10,móveis/equipamentos,1.0
+23,feminino,2,própria,bastante,pouco,4281,33,móveis/equipamentos,0.0
+36,masculino,3,própria,bastante,moderado,2366,12,carro,0.0
+25,feminino,2,própria,pouco,pouco,1835,21,rádio/TV,0.0
+41,feminino,3,alugada,pouco,não possui,3868,24,carro,0.0
+24,masculino,1,alugada,pouco,não possui,1768,12,móveis/equipamentos,0.0
+63,masculino,2,gratuita,pouco,rico,781,10,carro,1.0
+27,feminino,2,alugada,não possui,moderado,1924,18,móveis/equipamentos,0.0
+30,masculino,2,própria,pouco,pouco,2121,12,carro,0.0
+40,masculino,1,própria,pouco,pouco,701,12,rádio/TV,0.0
+30,masculino,2,própria,pouco,moderado,639,12,reparos,0.0
+34,masculino,3,própria,pouco,moderado,1860,12,carro,0.0
+29,feminino,2,própria,pouco,pouco,3499,12,carro,0.0
+24,feminino,2,própria,não possui,moderado,8487,48,carro,0.0
+29,masculino,2,própria,pouco,pouco,6887,36,educação,1.0
+27,masculino,1,própria,pouco,não possui,2708,15,móveis/equipamentos,0.0
+47,masculino,2,gratuita,pouco,não possui,1984,18,móveis/equipamentos,0.0
+21,feminino,2,própria,moderado,não possui,10144,60,rádio/TV,1.0
+38,feminino,2,própria,não possui,não possui,1240,12,rádio/TV,0.0
+27,masculino,2,própria,rico,não possui,8613,27,carro,
+66,masculino,1,própria,bastante,moderado,766,12,rádio/TV,0.0
+35,masculino,2,própria,não possui,moderado,2728,15,rádio/TV,0.0
+44,feminino,1,alugada,pouco,rico,1881,12,rádio/TV,
+27,masculino,0,própria,rico,rico,709,6,carro,1.0
+30,feminino,3,própria,pouco,moderado,4795,36,rádio/TV,0.0
+27,masculino,3,própria,pouco,pouco,3416,27,rádio/TV,0.0
+22,masculino,2,própria,pouco,pouco,2462,18,móveis/equipamentos,1.0
+23,feminino,2,própria,pouco,não possui,2288,21,móveis/equipamentos,0.0
+30,masculino,2,própria,moderado,moderado,3566,48,negócios,0.0
+39,feminino,2,própria,pouco,pouco,860,6,carro,1.0
+51,feminino,2,própria,moderado,não possui,682,12,carro,1.0
+28,masculino,2,própria,pouco,pouco,5371,36,móveis/equipamentos,1.0
+46,masculino,2,própria,rico,não possui,1582,18,rádio/TV,0.0
+42,masculino,2,gratuita,moderado,não possui,1346,6,rádio/TV,1.0
+38,masculino,2,própria,pouco,não possui,1924,10,rádio/TV,1.0
+24,masculino,2,própria,pouco,rico,5848,36,rádio/TV,1.0
+29,feminino,2,alugada,rico,moderado,7758,24,carro,0.0
+36,masculino,3,alugada,moderado,moderado,6967,24,negócios,0.0
+20,feminino,2,alugada,pouco,pouco,1282,12,móveis/equipamentos,0.0
+48,masculino,2,própria,moderado,pouco,1288,9,reparos,1.0
+45,masculino,1,própria,pouco,pouco,339,12,educação,0.0
+38,masculino,2,própria,moderado,moderado,3512,24,carro,0.0
+34,masculino,1,própria,não possui,não possui,1898,6,rádio/TV,1.0
+36,masculino,2,própria,moderado,não possui,2872,24,rádio/TV,0.0
+30,feminino,2,própria,pouco,não possui,1055,18,carro,0.0
+36,masculino,2,própria,bastante,não possui,1262,15,eletrodomésticos,0.0
+70,masculino,3,gratuita,pouco,moderado,7308,10,carro,1.0
+36,masculino,2,própria,bastante,não possui,909,36,carro,0.0
+32,masculino,2,própria,bastante,não possui,2978,6,móveis/equipamentos,1.0
+33,feminino,2,própria,pouco,pouco,1131,18,móveis/equipamentos,0.0
+20,feminino,2,própria,rico,moderado,1577,11,móveis/equipamentos,1.0
+25,feminino,2,alugada,pouco,não possui,3972,24,móveis/equipamentos,0.0
+31,masculino,2,própria,pouco,moderado,1935,24,negócios,0.0
+33,masculino,2,alugada,pouco,pouco,950,15,carro,0.0
+26,feminino,2,própria,pouco,não possui,763,12,móveis/equipamentos,0.0
+34,feminino,3,própria,pouco,moderado,2064,24,móveis/equipamentos,0.0
+33,masculino,2,própria,pouco,moderado,1414,8,rádio/TV,1.0
+26,masculino,2,própria,pouco,pouco,3414,21,educação,
+53,feminino,3,própria,não possui,não possui,7485,30,carro,0.0
+42,masculino,2,própria,pouco,pouco,2577,12,móveis/equipamentos,0.0
+52,masculino,2,própria,bastante,pouco,338,6,rádio/TV,1.0
+31,masculino,3,alugada,pouco,não possui,1963,12,rádio/TV,0.0
+65,masculino,2,própria,pouco,pouco,571,21,carro,0.0
+28,masculino,2,própria,pouco,não possui,9572,36,negócios,1.0
+30,masculino,3,própria,pouco,moderado,4455,36,negócios,0.0
+40,masculino,1,própria,não possui,pouco,1647,21,carro,0.0
+50,masculino,2,própria,rico,não possui,3777,24,móveis/equipamentos,0.0
+36,masculino,2,própria,pouco,moderado,884,18,carro,0.0
+31,masculino,2,própria,pouco,não possui,1360,15,rádio/TV,0.0
+74,feminino,3,gratuita,pouco,moderado,5129,9,carro,0.0
+68,masculino,0,gratuita,pouco,moderado,1175,16,carro,0.0
+20,masculino,2,própria,moderado,pouco,674,12,rádio/TV,1.0
+33,feminino,2,própria,pouco,moderado,3244,18,móveis/equipamentos,0.0
+54,masculino,3,própria,rico,não possui,4591,24,negócios,1.0
+34,masculino,1,gratuita,moderado,moderado,3844,48,negócios,0.0
+36,masculino,2,própria,pouco,moderado,3915,27,negócios,0.0
+29,masculino,2,alugada,pouco,não possui,2108,6,rádio/TV,1.0
+21,masculino,2,alugada,moderado,moderado,3031,45,rádio/TV,1.0
+34,feminino,3,própria,pouco,moderado,1501,9,educação,1.0
+28,feminino,2,própria,pouco,não possui,1382,6,rádio/TV,1.0
+27,feminino,2,alugada,moderado,moderado,951,12,móveis/equipamentos,0.0
+36,masculino,2,gratuita,não possui,moderado,2760,24,carro,
+40,masculino,3,própria,pouco,moderado,4297,18,móveis/equipamentos,0.0
+52,masculino,2,própria,bastante,não possui,936,9,educação,1.0
+27,masculino,1,própria,pouco,pouco,1168,12,carro,0.0
+26,masculino,2,própria,pouco,não possui,5117,27,negócios,1.0
+21,masculino,2,alugada,pouco,pouco,902,12,educação,1.0
+38,masculino,1,própria,pouco,não possui,1495,12,carro,0.0
+38,masculino,3,gratuita,pouco,pouco,10623,30,carro,1.0
+43,masculino,2,própria,pouco,não possui,1935,12,móveis/equipamentos,0.0
+26,masculino,2,própria,pouco,moderado,1424,12,eletrodomésticos,1.0
+21,masculino,1,própria,pouco,pouco,6568,24,negócios,0.0
+55,masculino,2,própria,rico,não possui,1413,12,carro,
+33,masculino,2,própria,não possui,não possui,3074,9,rádio/TV,
+45,feminino,1,própria,não possui,não possui,3835,36,rádio/TV,0.0
+50,masculino,2,própria,pouco,pouco,5293,27,negócios,0.0
+66,masculino,3,própria,pouco,rico,1908,30,negócios,1.0
+51,masculino,2,própria,não possui,não possui,3342,36,rádio/TV,0.0
+39,feminino,1,própria,não possui,moderado,932,6,educação,1.0
+31,masculino,2,própria,pouco,pouco,3104,18,negócios,0.0
+23,masculino,2,própria,pouco,rico,3913,36,rádio/TV,1.0
+24,masculino,1,alugada,pouco,pouco,3021,24,móveis/equipamentos,
+64,feminino,2,própria,pouco,não possui,1364,10,carro,1.0
+26,masculino,1,própria,pouco,moderado,625,12,rádio/TV,0.0
+23,feminino,2,alugada,não possui,pouco,1200,12,educação,
+30,masculino,2,própria,pouco,não possui,707,12,rádio/TV,0.0
+32,masculino,2,própria,não possui,não possui,2978,24,negócios,0.0
+30,masculino,2,própria,pouco,não possui,4657,15,carro,0.0
+27,masculino,2,própria,pouco,não possui,2613,36,reparos,1.0
+27,masculino,2,própria,rico,moderado,10961,48,rádio/TV,1.0
+53,masculino,3,gratuita,pouco,pouco,7865,12,móveis/equipamentos,1.0
+22,masculino,2,própria,pouco,não possui,1478,9,rádio/TV,1.0
+22,masculino,2,gratuita,pouco,pouco,3149,24,móveis/equipamentos,1.0
+26,masculino,2,própria,pouco,rico,4210,36,rádio/TV,1.0
+51,masculino,1,gratuita,bastante,não possui,2507,9,carro,1.0
+35,masculino,2,própria,moderado,não possui,2141,12,rádio/TV,0.0
+25,masculino,1,própria,pouco,moderado,866,18,rádio/TV,0.0
+42,masculino,1,própria,pouco,não possui,1544,4,rádio/TV,1.0
+30,masculino,3,própria,pouco,pouco,1823,24,rádio/TV,
+23,masculino,0,própria,não possui,moderado,14555,6,carro,0.0
+61,masculino,1,alugada,moderado,moderado,2767,21,negócios,0.0
+35,feminino,2,própria,pouco,não possui,1291,12,rádio/TV,0.0
+39,masculino,2,própria,pouco,pouco,2522,30,rádio/TV,0.0
+29,feminino,2,própria,não possui,pouco,915,24,carro,0.0
+51,masculino,2,própria,pouco,não possui,1595,6,rádio/TV,1.0
+24,masculino,2,gratuita,pouco,pouco,4605,48,carro,1.0
+27,feminino,2,própria,pouco,não possui,1185,12,negócios,0.0
+35,feminino,1,própria,bastante,não possui,3447,12,educação,0.0
+25,masculino,2,própria,pouco,não possui,1258,24,negócios,1.0
+52,masculino,2,própria,pouco,não possui,717,12,rádio/TV,0.0
+35,masculino,2,alugada,moderado,não possui,1204,6,carro,1.0
+26,masculino,2,própria,pouco,rico,1925,24,móveis/equipamentos,1.0
+22,feminino,2,alugada,pouco,não possui,433,18,rádio/TV,0.0
+39,feminino,1,própria,rico,pouco,666,6,carro,1.0
+46,feminino,1,própria,pouco,rico,2251,12,móveis/equipamentos,0.0
+24,feminino,2,própria,pouco,moderado,2150,30,carro,0.0
+35,masculino,2,própria,moderado,não possui,4151,24,móveis/equipamentos,0.0
+24,masculino,2,própria,não possui,moderado,2030,9,móveis/equipamentos,1.0
+27,masculino,1,própria,não possui,moderado,7418,60,rádio/TV,0.0
+35,masculino,1,própria,pouco,não possui,2684,24,rádio/TV,0.0
+29,masculino,2,gratuita,pouco,pouco,2149,12,rádio/TV,1.0
+23,feminino,2,própria,moderado,não possui,3812,15,carro,0.0
+57,feminino,1,própria,moderado,não possui,1154,11,rádio/TV,1.0
+27,masculino,2,própria,pouco,pouco,1657,12,móveis/equipamentos,1.0
+55,feminino,2,própria,pouco,pouco,1603,24,rádio/TV,
+36,masculino,3,gratuita,pouco,pouco,5302,18,carro,0.0
+57,feminino,1,gratuita,pouco,não possui,2748,12,educação,0.0
+32,masculino,1,própria,pouco,não possui,1231,10,carro,1.0
+37,masculino,2,própria,pouco,moderado,802,15,rádio/TV,0.0
+36,masculino,2,própria,não possui,não possui,6304,36,negócios,0.0
+38,feminino,2,própria,pouco,não possui,1533,24,rádio/TV,0.0
+45,masculino,3,própria,pouco,pouco,8978,14,carro,1.0
+25,masculino,2,própria,não possui,não possui,999,24,rádio/TV,1.0
+32,masculino,2,própria,não possui,não possui,2662,18,carro,0.0
+37,feminino,2,alugada,bastante,não possui,1402,12,móveis/equipamentos,0.0
+36,masculino,3,gratuita,não possui,moderado,12169,48,carro,1.0
+28,masculino,2,própria,pouco,moderado,3060,48,rádio/TV,1.0
+34,masculino,1,própria,pouco,pouco,11998,30,reparos,1.0
+32,masculino,2,própria,pouco,não possui,2697,9,rádio/TV,
+26,feminino,2,própria,pouco,não possui,2404,18,rádio/TV,0.0
+49,masculino,1,própria,não possui,pouco,1262,12,móveis/equipamentos,
+32,feminino,2,própria,pouco,não possui,4611,6,móveis/equipamentos,1.0
+29,masculino,3,alugada,moderado,não possui,1901,24,rádio/TV,0.0
+23,masculino,2,alugada,rico,não possui,3368,15,carro,
+50,masculino,2,própria,pouco,não possui,1574,12,móveis/equipamentos,0.0
+49,masculino,1,própria,não possui,rico,1445,18,rádio/TV,0.0
+63,masculino,2,própria,não possui,não possui,1520,15,móveis/equipamentos,0.0
+37,masculino,2,própria,moderado,moderado,3878,24,carro,0.0
+35,feminino,1,própria,pouco,pouco,10722,47,carro,1.0
+26,masculino,2,própria,pouco,pouco,4788,48,carro,1.0
+31,masculino,3,gratuita,moderado,moderado,7582,48,férias/outros,0.0
+49,feminino,2,própria,pouco,moderado,1092,12,rádio/TV,1.0
+48,masculino,2,própria,pouco,pouco,1024,24,rádio/TV,
+26,masculino,2,própria,pouco,não possui,1076,12,negócios,1.0
+28,masculino,3,alugada,pouco,moderado,9398,36,carro,0.0
+44,feminino,3,gratuita,pouco,pouco,6419,24,carro,
+56,masculino,2,gratuita,pouco,rico,4796,42,carro,0.0
+46,masculino,3,própria,não possui,não possui,7629,48,negócios,1.0
+26,feminino,2,própria,pouco,moderado,9960,48,móveis/equipamentos,0.0
+20,feminino,2,alugada,não possui,não possui,4675,12,carro,
+45,masculino,1,própria,não possui,não possui,1287,10,carro,1.0
+43,masculino,2,própria,pouco,não possui,2515,18,móveis/equipamentos,0.0
+32,masculino,2,própria,rico,moderado,2745,21,móveis/equipamentos,
+54,feminino,0,própria,pouco,não possui,672,6,carro,1.0
+42,feminino,2,própria,pouco,moderado,3804,36,rádio/TV,1.0
+37,masculino,1,própria,não possui,rico,1344,24,carro,0.0
+49,masculino,2,própria,pouco,pouco,1038,10,carro,1.0
+44,masculino,2,gratuita,bastante,não possui,10127,48,carro,1.0
+33,masculino,2,própria,rico,não possui,1543,6,móveis/equipamentos,1.0
+24,feminino,1,alugada,não possui,não possui,4811,30,carro,1.0
+33,masculino,1,própria,moderado,pouco,727,12,rádio/TV,
+24,feminino,2,própria,pouco,moderado,1237,8,móveis/equipamentos,1.0
+22,masculino,1,alugada,pouco,moderado,276,9,carro,1.0
+40,masculino,0,gratuita,não possui,moderado,5381,48,férias/outros,0.0
+25,masculino,2,própria,moderado,não possui,5511,24,móveis/equipamentos,1.0
+26,feminino,2,própria,pouco,rico,3749,24,móveis/equipamentos,
+25,masculino,1,própria,pouco,moderado,685,12,carro,0.0
+29,masculino,1,própria,não possui,rico,1494,4,carro,1.0
+31,masculino,2,própria,pouco,pouco,2746,36,móveis/equipamentos,0.0
+38,masculino,1,própria,pouco,pouco,708,12,móveis/equipamentos,0.0
+48,feminino,1,própria,não possui,moderado,4351,24,móveis/equipamentos,0.0
+32,masculino,2,própria,pouco,não possui,701,12,educação,
+27,feminino,1,própria,pouco,pouco,3643,15,móveis/equipamentos,
+28,masculino,3,própria,pouco,moderado,4249,30,carro,0.0
+32,masculino,2,própria,pouco,pouco,1938,24,rádio/TV,0.0
+34,masculino,3,gratuita,pouco,pouco,2910,24,carro,0.0
+28,masculino,2,própria,rico,pouco,2659,18,móveis/equipamentos,1.0
+36,feminino,2,própria,pouco,não possui,1028,18,carro,0.0
+39,masculino,1,própria,pouco,pouco,3398,8,carro,1.0
+49,masculino,2,alugada,não possui,não possui,5801,12,móveis/equipamentos,0.0
+34,feminino,2,própria,rico,não possui,1525,24,carro,
+31,masculino,2,própria,pouco,rico,4473,36,rádio/TV,
+28,masculino,2,própria,pouco,moderado,1068,6,rádio/TV,1.0
+75,masculino,3,gratuita,pouco,pouco,6615,24,carro,1.0
+30,feminino,2,própria,moderado,não possui,1864,18,educação,0.0
+24,feminino,3,própria,moderado,moderado,7408,60,carro,0.0
+24,feminino,1,alugada,moderado,não possui,11590,48,carro,1.0
+23,masculino,2,alugada,pouco,pouco,4110,24,móveis/equipamentos,1.0
+44,masculino,3,alugada,pouco,pouco,3384,6,móveis/equipamentos,1.0
+23,feminino,1,própria,pouco,moderado,2101,13,rádio/TV,1.0
+24,feminino,2,alugada,não possui,pouco,1275,15,eletrodomésticos,0.0
+28,masculino,2,própria,pouco,pouco,4169,24,móveis/equipamentos,1.0
+31,masculino,1,própria,pouco,moderado,1521,10,móveis/equipamentos,1.0
+24,feminino,2,gratuita,pouco,moderado,5743,24,educação,0.0
+26,feminino,1,alugada,pouco,pouco,3599,21,móveis/equipamentos,1.0
+25,masculino,2,alugada,bastante,moderado,3213,18,rádio/TV,1.0
+33,masculino,3,própria,pouco,moderado,4439,18,negócios,0.0
+37,masculino,1,própria,pouco,rico,3949,10,carro,1.0
+43,feminino,1,própria,pouco,não possui,1459,15,rádio/TV,0.0
+23,masculino,2,própria,pouco,moderado,882,13,rádio/TV,
+23,feminino,0,alugada,bastante,moderado,3758,24,rádio/TV,0.0
+34,masculino,1,própria,moderado,não possui,1743,6,negócios,1.0
+32,masculino,2,gratuita,rico,moderado,1136,9,educação,1.0
+23,feminino,2,alugada,pouco,não possui,1236,9,eletrodomésticos,1.0
+29,feminino,2,própria,pouco,moderado,959,9,móveis/equipamentos,1.0
+38,masculino,3,própria,não possui,não possui,3229,18,carro,0.0
+28,masculino,2,alugada,pouco,pouco,6199,12,rádio/TV,1.0
+46,masculino,2,gratuita,bastante,não possui,727,10,educação,1.0
+23,masculino,1,própria,pouco,moderado,1246,24,carro,0.0
+49,masculino,2,própria,não possui,não possui,2331,12,rádio/TV,0.0
+26,masculino,3,própria,pouco,não possui,4463,36,rádio/TV,0.0
+28,masculino,2,própria,pouco,não possui,776,12,rádio/TV,1.0
+23,feminino,2,alugada,pouco,pouco,2406,30,móveis/equipamentos,0.0
+61,masculino,2,gratuita,não possui,moderado,1239,18,educação,0.0
+37,masculino,3,própria,não possui,rico,3399,12,rádio/TV,0.0
+36,feminino,2,própria,pouco,rico,2247,12,carro,0.0
+21,masculino,2,alugada,pouco,não possui,1766,6,móveis/equipamentos,1.0
+25,masculino,0,própria,pouco,pouco,2473,18,móveis/equipamentos,0.0
+36,masculino,2,própria,pouco,não possui,1542,12,negócios,0.0
+27,masculino,2,própria,pouco,não possui,3850,18,carro,1.0
+22,feminino,2,alugada,pouco,pouco,3650,18,móveis/equipamentos,0.0
+42,masculino,2,própria,pouco,pouco,3446,36,móveis/equipamentos,0.0
+40,feminino,2,alugada,pouco,moderado,3001,18,móveis/equipamentos,0.0
+36,masculino,2,própria,não possui,não possui,3079,36,carro,
+33,masculino,2,própria,pouco,não possui,6070,18,rádio/TV,
+23,feminino,2,alugada,pouco,não possui,2146,10,móveis/equipamentos,1.0
+63,masculino,3,gratuita,não possui,não possui,13756,60,carro,1.0
+60,feminino,3,gratuita,moderado,moderado,14782,60,férias/outros,1.0
+37,feminino,2,alugada,pouco,pouco,7685,48,negócios,0.0
+34,masculino,2,própria,pouco,não possui,2320,18,rádio/TV,0.0
+36,masculino,2,gratuita,não possui,não possui,846,7,rádio/TV,1.0
+57,masculino,3,gratuita,pouco,moderado,14318,36,carro,1.0
+52,feminino,1,própria,moderado,não possui,362,6,carro,1.0
+39,masculino,2,própria,não possui,pouco,2212,20,móveis/equipamentos,0.0
+38,feminino,3,gratuita,pouco,moderado,12976,18,carro,0.0
+25,feminino,2,alugada,não possui,não possui,1283,22,carro,
+26,masculino,2,própria,pouco,rico,1330,12,carro,1.0
+26,masculino,1,própria,moderado,não possui,4272,30,negócios,0.0
+25,feminino,2,própria,pouco,não possui,2238,18,rádio/TV,0.0
+21,feminino,2,alugada,não possui,não possui,1126,18,rádio/TV,0.0
+40,masculino,3,própria,pouco,moderado,7374,18,móveis/equipamentos,0.0
+27,masculino,2,própria,bastante,moderado,2326,15,negócios,1.0
+27,feminino,2,própria,pouco,não possui,1449,9,negócios,1.0
+30,masculino,3,própria,pouco,não possui,1820,18,carro,0.0
+19,feminino,1,alugada,rico,moderado,983,12,móveis/equipamentos,1.0
+39,masculino,3,gratuita,pouco,pouco,3249,36,carro,0.0
+31,feminino,2,própria,pouco,pouco,1957,6,rádio/TV,1.0
+31,masculino,3,própria,pouco,não possui,2406,9,móveis/equipamentos,1.0
+32,masculino,2,alugada,moderado,moderado,11760,39,educação,1.0
+55,feminino,3,gratuita,pouco,pouco,2578,12,móveis/equipamentos,0.0
+46,masculino,2,própria,pouco,pouco,2348,36,móveis/equipamentos,0.0
+46,masculino,2,alugada,pouco,moderado,1223,12,carro,0.0
+43,feminino,1,própria,rico,não possui,1516,24,rádio/TV,0.0
+39,masculino,2,própria,pouco,não possui,1473,18,rádio/TV,0.0
+28,masculino,2,própria,não possui,moderado,1887,18,negócios,1.0
+27,masculino,2,própria,pouco,não possui,8648,24,negócios,1.0
+27,masculino,1,própria,pouco,não possui,802,14,carro,0.0
+43,masculino,2,própria,não possui,moderado,2899,18,carro,0.0
+22,masculino,2,própria,pouco,moderado,2039,24,rádio/TV,1.0
+43,masculino,2,própria,não possui,não possui,2197,24,carro,0.0
+27,masculino,2,própria,pouco,pouco,1053,15,rádio/TV,1.0
+26,masculino,3,própria,bastante,não possui,3235,24,rádio/TV,0.0
+28,masculino,2,própria,bastante,rico,939,12,carro,1.0
+20,feminino,2,própria,pouco,moderado,1967,24,rádio/TV,0.0
+35,masculino,3,própria,pouco,não possui,7253,33,carro,
+42,masculino,3,própria,pouco,não possui,2292,12,negócios,1.0
+40,masculino,1,alugada,bastante,não possui,1597,10,carro,1.0
+35,feminino,2,própria,não possui,pouco,1381,24,carro,0.0
+35,masculino,2,própria,pouco,não possui,5842,36,carro,0.0
+33,masculino,1,própria,pouco,pouco,2579,12,carro,0.0
+23,feminino,2,alugada,não possui,pouco,8471,18,educação,0.0
+31,feminino,3,própria,bastante,não possui,2782,21,carro,0.0
+33,feminino,2,própria,não possui,moderado,1042,18,carro,0.0
+20,feminino,2,alugada,rico,não possui,3186,15,carro,0.0
+30,masculino,2,própria,não possui,moderado,2028,12,carro,0.0
+47,masculino,1,própria,pouco,moderado,958,12,carro,0.0
+34,masculino,3,própria,moderado,não possui,1591,21,móveis/equipamentos,0.0
+25,feminino,2,própria,não possui,moderado,2762,12,móveis/equipamentos,0.0
+21,masculino,2,alugada,pouco,moderado,2779,18,carro,1.0
+29,masculino,2,própria,pouco,não possui,2743,28,rádio/TV,1.0
+46,masculino,2,própria,rico,não possui,1149,18,rádio/TV,0.0
+20,masculino,2,própria,pouco,não possui,1313,9,móveis/equipamentos,1.0
+55,feminino,0,gratuita,pouco,pouco,1190,18,reparos,0.0
+74,masculino,1,própria,pouco,não possui,3448,5,negócios,1.0
+29,masculino,3,própria,pouco,moderado,11328,24,férias/outros,0.0
+36,masculino,3,gratuita,pouco,pouco,1872,6,móveis/equipamentos,1.0
+33,masculino,2,própria,pouco,não possui,2058,24,reparos,0.0
+25,masculino,2,própria,pouco,pouco,2136,9,móveis/equipamentos,1.0
+25,masculino,2,própria,não possui,moderado,1484,12,rádio/TV,1.0
+23,masculino,1,alugada,bastante,não possui,660,6,reparos,
+37,feminino,2,própria,rico,não possui,1287,24,carro,0.0
+65,masculino,0,própria,pouco,pouco,3394,42,reparos,0.0
+26,feminino,0,própria,pouco,rico,609,12,negócios,
+39,masculino,3,própria,pouco,não possui,1884,12,carro,0.0
+30,feminino,2,própria,pouco,pouco,1620,12,móveis/equipamentos,0.0
+29,masculino,2,própria,pouco,moderado,2629,20,férias/outros,1.0
+41,masculino,1,própria,pouco,não possui,719,12,educação,0.0
+30,feminino,3,própria,pouco,moderado,5096,48,móveis/equipamentos,0.0
+41,feminino,1,alugada,não possui,não possui,1244,9,educação,1.0
+34,feminino,2,própria,pouco,pouco,1842,36,carro,0.0
+35,masculino,2,própria,pouco,moderado,2576,7,rádio/TV,1.0
+55,feminino,3,própria,não possui,rico,1424,12,móveis/equipamentos,0.0
+61,masculino,2,própria,rico,moderado,1512,15,reparos,0.0
+30,masculino,3,própria,não possui,não possui,11054,36,carro,1.0
+29,feminino,2,própria,pouco,não possui,518,6,rádio/TV,
+34,masculino,2,própria,pouco,não possui,2759,12,móveis/equipamentos,0.0
+35,masculino,3,própria,pouco,não possui,2670,24,carro,0.0
+31,masculino,2,própria,pouco,pouco,4817,24,carro,0.0
+29,feminino,3,própria,pouco,não possui,2679,24,carro,0.0
+36,masculino,2,alugada,pouco,pouco,3905,11,carro,1.0
+35,masculino,2,gratuita,pouco,pouco,3386,12,carro,0.0
+27,feminino,2,própria,pouco,pouco,343,6,eletrodomésticos,1.0
+32,masculino,2,própria,pouco,não possui,4594,18,rádio/TV,0.0
+37,masculino,2,própria,pouco,pouco,3620,36,móveis/equipamentos,0.0
+36,masculino,2,própria,pouco,pouco,1721,15,carro,0.0
+34,feminino,3,alugada,pouco,moderado,3017,12,móveis/equipamentos,0.0
+38,masculino,2,própria,não possui,moderado,754,12,educação,0.0
+34,masculino,2,própria,pouco,não possui,1950,18,negócios,0.0
+63,masculino,2,própria,pouco,pouco,2924,24,carro,0.0
+29,feminino,1,alugada,pouco,pouco,1659,24,rádio/TV,1.0
+32,masculino,2,própria,não possui,não possui,7238,48,rádio/TV,0.0
+26,feminino,2,própria,pouco,não possui,2764,33,negócios,0.0
+35,masculino,1,própria,pouco,não possui,4679,24,carro,0.0
+22,masculino,2,alugada,moderado,moderado,3092,24,rádio/TV,1.0
+23,feminino,2,própria,pouco,pouco,448,6,educação,1.0
+28,masculino,1,própria,pouco,pouco,654,9,carro,1.0
+36,masculino,3,própria,não possui,não possui,1238,6,educação,1.0
+33,masculino,2,própria,pouco,moderado,1245,18,rádio/TV,0.0
+26,feminino,2,alugada,pouco,pouco,3114,18,móveis/equipamentos,0.0
+24,masculino,2,própria,bastante,não possui,2569,39,carro,1.0
+25,masculino,2,própria,pouco,rico,5152,24,rádio/TV,1.0
+39,masculino,1,própria,moderado,moderado,1037,12,negócios,0.0
+44,masculino,2,própria,pouco,pouco,1478,15,móveis/equipamentos,0.0
+23,feminino,1,própria,pouco,moderado,3573,12,rádio/TV,1.0
+26,masculino,2,própria,pouco,moderado,1201,24,carro,1.0
+57,feminino,2,alugada,rico,pouco,3622,30,móveis/equipamentos,1.0
+30,feminino,2,própria,rico,não possui,960,15,móveis/equipamentos,0.0
+44,masculino,2,própria,bastante,não possui,1163,12,carro,0.0
+47,masculino,3,própria,pouco,moderado,1209,6,carro,1.0
+52,masculino,2,própria,pouco,não possui,3077,12,rádio/TV,0.0
+62,feminino,2,gratuita,pouco,não possui,3757,24,carro,1.0
+35,masculino,1,alugada,moderado,não possui,1418,10,carro,1.0
+26,masculino,2,alugada,pouco,não possui,3518,6,carro,1.0
+26,masculino,2,própria,pouco,não possui,1934,12,rádio/TV,1.0
+42,feminino,3,gratuita,pouco,moderado,8318,27,negócios,0.0
+27,feminino,2,própria,moderado,não possui,1237,6,rádio/TV,1.0
+38,masculino,2,própria,não possui,moderado,368,6,rádio/TV,
+39,masculino,1,alugada,pouco,pouco,2122,12,carro,0.0
+20,masculino,2,própria,não possui,pouco,2996,24,móveis/equipamentos,1.0
+29,masculino,3,alugada,moderado,moderado,9034,36,móveis/equipamentos,0.0
+40,masculino,2,própria,pouco,não possui,1585,24,móveis/equipamentos,0.0
+32,masculino,1,própria,pouco,moderado,1301,18,rádio/TV,0.0
+28,masculino,2,própria,moderado,rico,1323,6,carro,
+27,feminino,2,própria,pouco,pouco,3123,24,carro,0.0
+42,masculino,2,gratuita,pouco,pouco,5493,36,carro,0.0
+49,masculino,2,própria,moderado,rico,1126,9,rádio/TV,1.0
+38,masculino,2,própria,moderado,moderado,1216,24,rádio/TV,0.0
+24,feminino,2,alugada,pouco,pouco,1207,24,carro,0.0
+27,masculino,1,própria,não possui,não possui,1309,10,carro,1.0
+36,masculino,2,própria,bastante,rico,2360,15,carro,0.0
+34,masculino,3,própria,moderado,moderado,6850,15,carro,0.0
+28,masculino,2,própria,pouco,não possui,1413,24,rádio/TV,1.0
+45,masculino,3,própria,moderado,não possui,8588,39,carro,1.0
+26,masculino,2,própria,pouco,pouco,759,12,carro,1.0
+32,masculino,3,gratuita,pouco,não possui,4686,36,carro,0.0
+26,masculino,2,alugada,pouco,rico,2687,15,negócios,1.0
+20,masculino,2,alugada,pouco,moderado,585,12,rádio/TV,
+54,masculino,2,própria,não possui,não possui,2255,24,carro,0.0
+37,feminino,2,própria,pouco,pouco,609,6,carro,1.0
+40,masculino,1,própria,pouco,pouco,1361,6,carro,1.0
+23,feminino,2,alugada,pouco,não possui,7127,36,móveis/equipamentos,0.0
+43,masculino,2,própria,moderado,pouco,1203,6,carro,1.0
+36,masculino,2,gratuita,não possui,não possui,700,6,rádio/TV,1.0
+44,masculino,2,gratuita,pouco,não possui,5507,24,reparos,0.0
+24,feminino,2,própria,pouco,pouco,3190,18,rádio/TV,
+53,masculino,2,gratuita,pouco,pouco,7119,48,móveis/equipamentos,
+23,feminino,2,própria,moderado,não possui,3488,24,carro,0.0
+26,feminino,1,própria,pouco,moderado,1113,18,rádio/TV,1.0
+30,masculino,2,própria,pouco,moderado,7966,26,carro,0.0
+31,feminino,2,própria,moderado,não possui,1532,15,educação,0.0
+42,masculino,1,própria,pouco,não possui,1503,4,rádio/TV,
+31,masculino,2,alugada,pouco,pouco,2302,36,rádio/TV,0.0
+41,masculino,1,própria,pouco,pouco,662,6,carro,1.0
+32,masculino,2,própria,pouco,moderado,2273,36,educação,0.0
+28,feminino,2,alugada,moderado,moderado,2631,15,carro,0.0
+41,masculino,2,alugada,pouco,não possui,1503,12,carro,0.0
+26,masculino,2,própria,moderado,não possui,1311,24,rádio/TV,1.0
+25,masculino,2,própria,não possui,não possui,3105,24,rádio/TV,1.0
+33,masculino,2,alugada,pouco,rico,2319,21,educação,0.0
+75,feminino,3,própria,não possui,pouco,1374,6,carro,1.0
+37,feminino,2,própria,pouco,moderado,3612,18,móveis/equipamentos,0.0
+42,masculino,3,gratuita,pouco,pouco,7763,48,carro,1.0
+45,feminino,1,própria,pouco,rico,3049,18,móveis/equipamentos,0.0
+23,masculino,2,alugada,pouco,moderado,1534,12,rádio/TV,1.0
+60,masculino,2,gratuita,pouco,não possui,2032,24,carro,0.0
+31,masculino,2,própria,não possui,pouco,6350,30,móveis/equipamentos,
+34,masculino,1,própria,pouco,rico,2864,18,móveis/equipamentos,
+61,masculino,1,própria,pouco,não possui,1255,12,carro,0.0
+43,masculino,2,gratuita,pouco,pouco,1333,24,carro,0.0
+37,feminino,2,própria,pouco,não possui,2022,24,carro,0.0
+32,masculino,2,própria,pouco,não possui,1552,24,rádio/TV,0.0
+24,feminino,1,própria,pouco,pouco,626,12,rádio/TV,
+35,masculino,2,gratuita,não possui,não possui,8858,48,carro,
+23,feminino,2,própria,não possui,não possui,996,12,reparos,0.0
+45,masculino,1,própria,bastante,não possui,1750,6,rádio/TV,1.0
+34,masculino,2,própria,pouco,pouco,6999,48,rádio/TV,0.0
+27,masculino,2,própria,moderado,moderado,1995,12,carro,1.0
+67,feminino,3,própria,pouco,moderado,1199,9,educação,1.0
+22,masculino,2,própria,pouco,moderado,1331,12,rádio/TV,1.0
+28,feminino,2,própria,moderado,moderado,2278,18,carro,0.0
+29,feminino,2,própria,não possui,não possui,5003,21,carro,0.0
+27,masculino,2,própria,pouco,pouco,3552,24,móveis/equipamentos,1.0
+31,masculino,1,própria,pouco,moderado,1928,18,móveis/equipamentos,0.0
+49,masculino,2,gratuita,não possui,pouco,2964,24,carro,0.0
+24,masculino,1,alugada,pouco,pouco,1546,24,rádio/TV,0.0
+29,feminino,2,própria,pouco,rico,683,6,rádio/TV,1.0
+37,masculino,2,gratuita,não possui,moderado,12389,36,carro,1.0
+37,masculino,3,própria,não possui,moderado,4712,24,negócios,0.0
+23,feminino,2,alugada,moderado,moderado,1553,24,rádio/TV,0.0
+36,masculino,2,própria,pouco,pouco,1372,12,carro,0.0
+34,masculino,2,própria,rico,não possui,2578,24,rádio/TV,0.0
+41,masculino,2,própria,não possui,moderado,3979,48,rádio/TV,0.0
+31,feminino,2,própria,pouco,pouco,6758,48,rádio/TV,0.0
+23,feminino,1,alugada,pouco,pouco,3234,24,móveis/equipamentos,
+38,masculino,2,própria,pouco,não possui,5954,30,rádio/TV,0.0
+26,feminino,3,alugada,não possui,não possui,5433,24,carro,0.0
+22,feminino,1,própria,pouco,pouco,806,15,negócios,1.0
+27,masculino,1,própria,pouco,moderado,1082,9,rádio/TV,1.0
+24,feminino,2,própria,pouco,não possui,2788,15,móveis/equipamentos,0.0
+27,feminino,2,própria,pouco,moderado,2930,12,rádio/TV,0.0
+33,feminino,2,própria,não possui,não possui,1927,24,educação,0.0
+27,masculino,2,própria,pouco,moderado,2820,36,carro,
+27,masculino,1,própria,pouco,não possui,937,24,educação,0.0
+30,masculino,2,própria,pouco,moderado,1056,18,carro,0.0
+49,masculino,1,própria,pouco,moderado,3124,12,carro,0.0
+26,feminino,2,alugada,pouco,não possui,1388,9,móveis/equipamentos,1.0
+33,masculino,1,alugada,pouco,moderado,2384,36,reparos,0.0
+52,feminino,3,gratuita,não possui,não possui,2133,12,carro,
+20,feminino,2,alugada,pouco,pouco,2039,18,móveis/equipamentos,0.0
+36,masculino,2,alugada,pouco,pouco,2799,9,carro,1.0
+21,masculino,1,própria,pouco,pouco,1289,12,móveis/equipamentos,0.0
+47,masculino,1,própria,pouco,pouco,1217,18,eletrodomésticos,0.0
+60,masculino,2,própria,pouco,pouco,2246,12,móveis/equipamentos,
+58,feminino,1,própria,pouco,pouco,385,12,rádio/TV,
+42,feminino,2,alugada,não possui,moderado,1965,24,carro,1.0
+36,feminino,1,própria,rico,não possui,1572,21,negócios,0.0
+20,feminino,1,alugada,pouco,moderado,2718,24,carro,1.0
+40,masculino,3,própria,não possui,pouco,1358,24,férias/outros,0.0
+32,feminino,1,própria,moderado,moderado,931,6,carro,1.0
+23,feminino,2,alugada,pouco,pouco,1442,24,carro,0.0
+36,masculino,1,própria,pouco,moderado,4241,24,negócios,0.0
+31,masculino,2,própria,pouco,não possui,2775,18,carro,0.0
+32,masculino,2,gratuita,pouco,não possui,3863,24,negócios,0.0
+45,feminino,2,própria,pouco,moderado,2329,7,rádio/TV,1.0
+30,feminino,2,própria,pouco,moderado,918,9,móveis/equipamentos,
+34,feminino,1,gratuita,pouco,moderado,1837,24,educação,0.0
+28,feminino,3,própria,pouco,não possui,3349,36,móveis/equipamentos,0.0
+23,feminino,2,própria,pouco,rico,1275,10,móveis/equipamentos,
+22,masculino,2,própria,bastante,pouco,2828,24,móveis/equipamentos,1.0
+74,masculino,3,própria,pouco,não possui,4526,24,negócios,1.0
+50,feminino,2,gratuita,moderado,moderado,2671,36,rádio/TV,1.0
+33,masculino,2,própria,pouco,não possui,2051,18,rádio/TV,0.0
+45,masculino,2,gratuita,não possui,não possui,1300,15,carro,0.0
+22,feminino,2,própria,moderado,pouco,741,12,eletrodomésticos,0.0
+48,feminino,1,gratuita,moderado,rico,1240,10,carro,1.0
+29,feminino,2,própria,rico,pouco,3357,21,rádio/TV,0.0
+22,feminino,2,alugada,pouco,pouco,3632,24,carro,0.0
+22,feminino,2,própria,pouco,não possui,1808,18,móveis/equipamentos,0.0
+48,masculino,3,própria,não possui,moderado,12204,48,negócios,1.0
+27,masculino,3,gratuita,não possui,moderado,9157,60,rádio/TV,0.0
+37,masculino,2,alugada,pouco,pouco,3676,6,carro,
+21,feminino,2,alugada,moderado,moderado,3441,30,móveis/equipamentos,0.0
+49,masculino,1,própria,pouco,não possui,640,12,carro,0.0
+27,masculino,2,própria,pouco,moderado,3652,21,negócios,1.0
+32,masculino,2,própria,pouco,não possui,1530,18,carro,
+38,masculino,2,própria,não possui,não possui,3914,48,negócios,0.0
+22,feminino,2,alugada,pouco,pouco,1858,12,móveis/equipamentos,0.0
+65,masculino,2,gratuita,pouco,pouco,2600,18,rádio/TV,0.0
+35,masculino,2,própria,não possui,não possui,1979,15,rádio/TV,0.0
+41,masculino,2,própria,pouco,rico,2116,6,móveis/equipamentos,
+29,masculino,2,própria,moderado,moderado,1437,9,carro,1.0
+36,masculino,2,própria,bastante,não possui,4042,42,móveis/equipamentos,0.0
+64,masculino,1,própria,não possui,não possui,3832,9,educação,1.0
+28,feminino,2,própria,pouco,pouco,3660,24,rádio/TV,0.0
+44,masculino,2,própria,pouco,pouco,1553,18,móveis/equipamentos,0.0
+23,masculino,2,própria,não possui,moderado,1444,15,rádio/TV,1.0
+19,feminino,2,alugada,pouco,não possui,1980,9,móveis/equipamentos,1.0
+25,feminino,1,própria,pouco,moderado,1355,24,carro,1.0
+47,masculino,2,própria,pouco,não possui,1393,12,educação,0.0
+28,feminino,2,própria,bastante,não possui,1376,24,rádio/TV,
+21,masculino,2,própria,pouco,não possui,15653,60,rádio/TV,1.0
+34,feminino,2,própria,pouco,não possui,1493,12,rádio/TV,0.0
+26,masculino,2,própria,pouco,pouco,4370,42,rádio/TV,1.0
+27,feminino,0,própria,pouco,pouco,750,18,educação,0.0
+38,masculino,1,própria,pouco,moderado,1308,15,reparos,0.0
+40,masculino,3,própria,moderado,não possui,4623,15,educação,0.0
+33,masculino,2,própria,pouco,não possui,1851,24,rádio/TV,0.0
+32,masculino,3,própria,pouco,pouco,1880,18,rádio/TV,0.0
+27,masculino,2,alugada,não possui,não possui,7980,36,negócios,1.0
+32,masculino,2,própria,pouco,pouco,4583,30,móveis/equipamentos,0.0
+26,feminino,2,própria,bastante,não possui,1386,12,carro,0.0
+38,masculino,2,gratuita,pouco,rico,947,24,carro,0.0
+40,masculino,1,alugada,pouco,pouco,684,12,educação,0.0
+50,masculino,3,gratuita,pouco,pouco,7476,48,educação,1.0
+37,masculino,1,própria,pouco,moderado,1922,12,móveis/equipamentos,0.0
+45,masculino,2,própria,pouco,pouco,2303,24,carro,
+42,masculino,3,própria,moderado,moderado,8086,36,carro,1.0
+35,masculino,2,própria,pouco,não possui,2346,24,carro,0.0
+22,masculino,2,gratuita,pouco,pouco,3973,14,carro,1.0
+41,masculino,1,própria,pouco,moderado,888,12,carro,0.0
+37,masculino,2,própria,não possui,não possui,10222,48,rádio/TV,1.0
+28,feminino,2,própria,pouco,moderado,4221,30,negócios,0.0
+41,masculino,2,própria,pouco,moderado,6361,18,móveis/equipamentos,0.0
+23,masculino,2,alugada,pouco,rico,1297,12,rádio/TV,
+23,masculino,2,própria,não possui,pouco,900,12,carro,1.0
+50,masculino,2,própria,pouco,não possui,2241,21,móveis/equipamentos,
+35,masculino,3,própria,pouco,moderado,1050,6,móveis/equipamentos,1.0
+50,feminino,1,própria,pouco,rico,1047,6,educação,1.0
+27,masculino,3,própria,pouco,não possui,6314,24,férias/outros,0.0
+34,masculino,2,própria,rico,moderado,3496,30,móveis/equipamentos,0.0
+27,feminino,2,própria,pouco,não possui,3609,48,negócios,0.0
+43,masculino,2,alugada,pouco,pouco,4843,12,carro,0.0
+47,masculino,2,própria,pouco,rico,3017,30,rádio/TV,0.0
+27,masculino,1,própria,moderado,não possui,4139,24,negócios,0.0
+31,masculino,2,própria,moderado,não possui,5742,36,negócios,0.0
+42,masculino,3,própria,pouco,não possui,10366,60,carro,1.0
+24,masculino,2,própria,bastante,não possui,2080,6,carro,1.0
+41,masculino,1,própria,bastante,não possui,2580,21,negócios,0.0
+26,feminino,3,alugada,pouco,não possui,4530,30,rádio/TV,0.0
+33,masculino,2,própria,pouco,não possui,5150,24,móveis/equipamentos,0.0
+24,masculino,2,própria,moderado,moderado,5595,72,rádio/TV,1.0
+64,masculino,1,alugada,pouco,pouco,2384,24,rádio/TV,
+26,feminino,2,própria,pouco,não possui,1453,18,rádio/TV,
+56,feminino,2,própria,pouco,não possui,1538,6,educação,1.0
+37,masculino,2,gratuita,não possui,não possui,2279,12,rádio/TV,0.0
+33,masculino,2,própria,pouco,não possui,1478,15,rádio/TV,0.0
+47,masculino,2,gratuita,pouco,não possui,5103,24,rádio/TV,0.0
+31,masculino,1,própria,moderado,moderado,9857,36,negócios,0.0
+34,masculino,2,gratuita,não possui,não possui,6527,60,carro,0.0
+27,masculino,2,própria,não possui,rico,1347,10,rádio/TV,1.0
+30,masculino,2,gratuita,moderado,moderado,2862,36,carro,
+35,masculino,2,própria,moderado,não possui,2753,9,rádio/TV,1.0
+31,masculino,2,própria,rico,pouco,3651,12,carro,0.0
+25,masculino,2,própria,pouco,pouco,975,15,móveis/equipamentos,1.0
+25,feminino,1,própria,moderado,moderado,2631,15,reparos,1.0
+29,masculino,2,própria,moderado,moderado,2896,24,rádio/TV,
+44,masculino,1,própria,não possui,pouco,4716,6,carro,1.0
+28,masculino,2,própria,pouco,não possui,2284,24,rádio/TV,1.0
+50,masculino,2,alugada,bastante,não possui,1236,6,carro,1.0
+29,masculino,2,própria,pouco,moderado,1103,12,rádio/TV,1.0
+38,feminino,0,própria,pouco,não possui,926,12,carro,0.0
+24,masculino,2,própria,pouco,não possui,1800,18,rádio/TV,1.0
+40,masculino,3,alugada,pouco,rico,1905,15,educação,0.0
+29,feminino,1,alugada,bastante,não possui,1123,12,móveis/equipamentos,1.0
+46,masculino,2,gratuita,pouco,pouco,6331,48,carro,0.0
+47,feminino,2,gratuita,moderado,rico,1377,24,rádio/TV,1.0
+41,masculino,2,própria,moderado,moderado,2503,30,negócios,0.0
+32,feminino,2,própria,pouco,moderado,2528,27,negócios,0.0
+35,feminino,2,gratuita,bastante,não possui,5324,15,carro,0.0
+24,masculino,2,própria,moderado,moderado,6560,48,carro,1.0
+25,feminino,2,alugada,pouco,moderado,2969,12,móveis/equipamentos,0.0
+25,feminino,2,própria,pouco,moderado,1206,9,rádio/TV,1.0
+37,masculino,1,própria,pouco,moderado,2118,9,rádio/TV,1.0
+32,masculino,3,própria,bastante,não possui,629,18,rádio/TV,0.0
+35,feminino,2,gratuita,pouco,pouco,1198,6,educação,1.0
+46,masculino,3,própria,não possui,não possui,2476,21,carro,1.0
+25,masculino,1,própria,pouco,pouco,1138,9,rádio/TV,1.0
+27,masculino,3,própria,pouco,moderado,14027,60,carro,
+63,masculino,2,própria,não possui,não possui,7596,30,carro,0.0
+40,masculino,2,própria,não possui,não possui,3077,30,rádio/TV,0.0
+32,masculino,3,gratuita,pouco,não possui,1505,18,rádio/TV,0.0
+31,masculino,2,própria,não possui,rico,3148,24,rádio/TV,0.0
+31,masculino,2,própria,moderado,moderado,6148,20,carro,0.0
+34,masculino,3,própria,pouco,rico,1337,9,rádio/TV,1.0
+24,feminino,2,alugada,rico,moderado,433,6,educação,1.0
+24,feminino,1,própria,pouco,pouco,1228,12,carro,1.0
+66,feminino,1,própria,bastante,moderado,790,9,rádio/TV,1.0
+21,feminino,2,alugada,pouco,não possui,2570,27,carro,0.0
+41,feminino,1,própria,rico,não possui,250,6,carro,1.0
+47,masculino,1,própria,bastante,não possui,1316,15,rádio/TV,0.0
+25,feminino,2,alugada,pouco,pouco,1882,18,rádio/TV,0.0
+59,feminino,2,alugada,pouco,moderado,6416,48,negócios,1.0
+36,masculino,2,própria,rico,rico,1275,24,negócios,0.0
+33,masculino,2,própria,pouco,moderado,6403,24,rádio/TV,0.0
+21,masculino,1,alugada,pouco,pouco,1987,24,rádio/TV,0.0
+44,feminino,1,própria,pouco,moderado,760,8,rádio/TV,1.0
+28,feminino,2,alugada,rico,não possui,2603,24,carro,0.0
+37,feminino,2,própria,pouco,não possui,3380,4,carro,1.0
+29,feminino,0,própria,não possui,moderado,3990,36,eletrodomésticos,0.0
+23,feminino,3,alugada,pouco,moderado,11560,24,carro,0.0
+35,masculino,1,própria,moderado,pouco,4380,18,carro,
+45,masculino,3,própria,pouco,não possui,6761,6,carro,1.0
+26,feminino,1,alugada,moderado,moderado,4280,30,negócios,1.0
+32,masculino,2,própria,moderado,pouco,2325,24,carro,
+23,masculino,1,própria,pouco,moderado,1048,10,rádio/TV,
+41,masculino,2,própria,não possui,não possui,3160,21,rádio/TV,0.0
+22,masculino,2,própria,bastante,pouco,2483,24,móveis/equipamentos,1.0
+30,masculino,3,própria,não possui,pouco,14179,39,móveis/equipamentos,1.0
+28,masculino,1,própria,pouco,pouco,1797,13,negócios,0.0
+23,feminino,2,alugada,pouco,pouco,2511,15,carro,0.0
+37,feminino,1,própria,pouco,pouco,1274,12,carro,0.0
+26,masculino,2,própria,não possui,não possui,5248,21,carro,1.0
+33,masculino,2,própria,pouco,não possui,3029,15,carro,0.0
+49,feminino,2,própria,pouco,pouco,428,6,móveis/equipamentos,1.0
+23,feminino,1,própria,pouco,pouco,976,18,carro,1.0
+23,feminino,1,alugada,moderado,moderado,841,12,negócios,1.0
+25,feminino,2,própria,pouco,não possui,5771,30,rádio/TV,
+55,masculino,2,gratuita,rico,não possui,1555,12,reparos,0.0
+32,feminino,2,alugada,não possui,pouco,1285,24,carro,0.0
+74,masculino,0,própria,pouco,rico,1299,6,carro,1.0
+39,masculino,2,gratuita,não possui,rico,1271,15,rádio/TV,0.0
+31,masculino,2,própria,pouco,não possui,1393,24,carro,0.0
+35,masculino,2,própria,pouco,pouco,691,12,carro,0.0
+59,feminino,2,própria,não possui,não possui,5045,15,carro,1.0
+24,feminino,2,alugada,pouco,pouco,2124,18,móveis/equipamentos,
+24,masculino,1,própria,pouco,pouco,2214,12,rádio/TV,0.0
+30,masculino,3,gratuita,não possui,não possui,12680,21,carro,0.0
+27,masculino,2,própria,moderado,não possui,2463,24,carro,
+40,masculino,1,própria,pouco,moderado,1155,12,rádio/TV,0.0
+31,masculino,1,própria,pouco,pouco,3108,30,móveis/equipamentos,0.0
+31,feminino,2,alugada,não possui,não possui,2901,10,carro,1.0
+28,masculino,2,alugada,pouco,moderado,3617,12,móveis/equipamentos,1.0
+63,masculino,1,própria,pouco,não possui,1655,12,rádio/TV,0.0
+26,feminino,2,alugada,não possui,pouco,2812,24,carro,0.0
+25,feminino,3,própria,pouco,pouco,8065,36,educação,0.0
+36,masculino,3,própria,pouco,não possui,3275,21,carro,0.0
+52,masculino,2,própria,moderado,não possui,2223,24,rádio/TV,0.0
+66,masculino,0,gratuita,bastante,rico,1480,12,carro,0.0
+25,feminino,2,alugada,não possui,pouco,1371,24,carro,0.0
+37,masculino,2,própria,pouco,não possui,3535,36,carro,0.0
+25,feminino,2,própria,pouco,pouco,3509,18,rádio/TV,0.0
+38,masculino,3,própria,rico,não possui,5711,36,carro,0.0
+67,feminino,2,própria,pouco,moderado,3872,18,reparos,1.0
+25,masculino,2,própria,pouco,moderado,4933,39,rádio/TV,1.0
+60,masculino,2,própria,rico,não possui,1940,24,carro,0.0
+31,masculino,1,própria,pouco,moderado,1410,12,educação,0.0
+23,feminino,1,própria,moderado,moderado,836,12,carro,1.0
+60,masculino,3,própria,não possui,moderado,6468,20,carro,1.0
+35,masculino,1,própria,rico,moderado,1941,18,negócios,0.0
+40,masculino,2,própria,bastante,não possui,2675,22,rádio/TV,0.0
+38,masculino,2,própria,não possui,não possui,2751,48,carro,
+50,masculino,2,gratuita,pouco,moderado,6224,48,educação,0.0
+27,masculino,2,própria,pouco,pouco,5998,40,educação,1.0
+39,feminino,2,própria,pouco,moderado,1188,21,negócios,0.0
+41,masculino,3,própria,não possui,não possui,6313,24,carro,1.0
+27,masculino,2,própria,não possui,não possui,1221,6,móveis/equipamentos,1.0
+51,masculino,2,gratuita,pouco,rico,2892,24,móveis/equipamentos,0.0
+32,masculino,2,alugada,bastante,não possui,3062,24,móveis/equipamentos,0.0
+22,feminino,2,alugada,moderado,não possui,2301,9,móveis/equipamentos,1.0
+51,masculino,2,gratuita,não possui,pouco,7511,18,carro,0.0
+22,feminino,1,alugada,pouco,não possui,1258,12,móveis/equipamentos,1.0
+54,masculino,2,própria,não possui,não possui,717,24,carro,0.0
+35,masculino,0,própria,não possui,moderado,1549,9,carro,1.0
+54,masculino,2,gratuita,pouco,não possui,1597,24,educação,0.0
+48,feminino,1,alugada,pouco,moderado,1795,18,rádio/TV,0.0
+24,feminino,2,própria,pouco,pouco,4272,20,móveis/equipamentos,0.0
+35,masculino,2,própria,não possui,não possui,976,12,rádio/TV,0.0
+24,feminino,0,alugada,não possui,moderado,7472,12,carro,0.0
+24,masculino,2,própria,pouco,pouco,9271,36,carro,1.0
+26,masculino,1,própria,pouco,moderado,590,6,rádio/TV,1.0
+65,masculino,2,própria,não possui,não possui,930,12,rádio/TV,0.0
+55,masculino,3,gratuita,pouco,moderado,9283,42,carro,1.0
+26,feminino,0,alugada,pouco,moderado,1778,15,carro,0.0
+26,masculino,2,própria,pouco,moderado,907,8,negócios,1.0
+28,masculino,1,própria,pouco,moderado,484,6,rádio/TV,
+24,masculino,2,própria,pouco,pouco,9629,36,carro,1.0
+54,masculino,2,própria,pouco,pouco,3051,48,eletrodomésticos,0.0
+46,masculino,2,gratuita,pouco,pouco,3931,48,carro,0.0
+54,feminino,2,alugada,pouco,moderado,7432,36,carro,1.0
+62,masculino,2,própria,bastante,não possui,1338,6,eletrodomésticos,1.0
+24,feminino,2,alugada,pouco,não possui,1554,6,rádio/TV,1.0
+43,masculino,3,própria,pouco,pouco,15857,36,férias/outros,1.0
+26,masculino,2,própria,pouco,pouco,1345,18,rádio/TV,1.0
+27,masculino,2,própria,pouco,não possui,1101,12,carro,
+24,masculino,2,própria,pouco,rico,3016,12,rádio/TV,1.0
+41,masculino,2,própria,pouco,pouco,2712,36,móveis/equipamentos,0.0
+47,masculino,1,própria,pouco,pouco,731,8,carro,1.0
+35,masculino,3,própria,pouco,não possui,3780,18,móveis/equipamentos,0.0
+30,masculino,2,própria,pouco,pouco,1602,21,carro,0.0
+33,feminino,2,alugada,pouco,pouco,3966,18,carro,
+36,masculino,2,própria,pouco,não possui,4165,18,negócios,0.0
+47,masculino,2,gratuita,não possui,pouco,8335,36,carro,0.0
+38,masculino,2,gratuita,não possui,moderado,6681,48,negócios,0.0
+44,masculino,2,própria,bastante,não possui,2375,24,negócios,0.0
+23,feminino,2,alugada,pouco,pouco,1216,18,carro,0.0
+29,masculino,2,alugada,pouco,pouco,11816,45,negócios,1.0
+42,feminino,2,própria,não possui,moderado,5084,24,rádio/TV,1.0
+25,feminino,1,própria,pouco,rico,2327,15,rádio/TV,1.0
+48,masculino,2,própria,pouco,pouco,1082,12,carro,0.0
+21,feminino,2,própria,não possui,não possui,886,12,rádio/TV,0.0
+23,feminino,1,alugada,pouco,não possui,601,4,móveis/equipamentos,
+63,masculino,2,própria,pouco,pouco,2957,24,carro,0.0
+46,masculino,2,própria,pouco,não possui,2611,24,rádio/TV,0.0
+29,masculino,2,própria,pouco,pouco,5179,36,móveis/equipamentos,1.0
+28,masculino,1,própria,pouco,não possui,2993,21,carro,0.0
+23,feminino,2,própria,pouco,não possui,1943,18,reparos,0.0
+50,masculino,2,própria,pouco,não possui,1559,24,negócios,0.0
+47,masculino,2,própria,pouco,não possui,3422,18,móveis/equipamentos,0.0
+35,masculino,2,própria,não possui,moderado,3976,21,móveis/equipamentos,0.0
+68,masculino,2,alugada,não possui,não possui,6761,18,carro,0.0
+28,masculino,2,própria,pouco,não possui,1249,24,carro,1.0
+59,masculino,2,própria,pouco,pouco,1364,9,rádio/TV,1.0
+57,masculino,1,própria,pouco,pouco,709,12,rádio/TV,0.0
+33,masculino,2,alugada,pouco,pouco,2235,20,carro,0.0
+43,masculino,2,própria,não possui,não possui,4042,24,carro,0.0
+35,masculino,2,gratuita,pouco,não possui,1471,15,rádio/TV,0.0
+32,masculino,1,gratuita,pouco,pouco,1442,18,carro,0.0
+45,masculino,2,própria,pouco,não possui,10875,36,carro,1.0
+33,masculino,2,própria,moderado,não possui,1474,24,carro,0.0
+40,feminino,2,própria,não possui,não possui,894,10,educação,1.0
+28,masculino,2,gratuita,pouco,não possui,3343,15,móveis/equipamentos,1.0
+29,feminino,2,própria,pouco,pouco,3959,15,carro,0.0
+26,masculino,2,alugada,moderado,não possui,3577,9,carro,
+27,masculino,2,própria,rico,não possui,5804,24,carro,1.0
+28,masculino,2,própria,pouco,não possui,2169,18,negócios,1.0
+35,feminino,2,própria,pouco,pouco,2439,24,rádio/TV,0.0
+32,masculino,1,própria,rico,não possui,4526,27,móveis/equipamentos,0.0
+25,masculino,1,alugada,pouco,não possui,2210,10,móveis/equipamentos,1.0
+20,feminino,2,alugada,bastante,não possui,2221,15,móveis/equipamentos,0.0
+27,feminino,2,própria,pouco,pouco,2389,18,rádio/TV,
+42,masculino,2,própria,pouco,não possui,3331,12,móveis/equipamentos,0.0
+37,masculino,2,própria,não possui,não possui,7409,36,negócios,0.0
+24,feminino,2,alugada,pouco,pouco,652,12,móveis/equipamentos,0.0
+40,feminino,2,própria,bastante,não possui,7678,36,móveis/equipamentos,0.0
+46,masculino,2,própria,pouco,rico,1343,6,carro,1.0
+26,masculino,2,própria,moderado,pouco,1382,24,negócios,1.0
+24,feminino,2,própria,não possui,não possui,874,15,eletrodomésticos,0.0
+29,masculino,1,própria,pouco,pouco,3590,12,móveis/equipamentos,0.0
+40,feminino,2,própria,rico,moderado,1322,11,carro,1.0
+36,masculino,3,gratuita,pouco,pouco,1940,18,rádio/TV,0.0
+28,masculino,2,própria,pouco,não possui,3595,36,rádio/TV,1.0
+27,masculino,3,gratuita,pouco,pouco,1422,9,carro,1.0
+36,masculino,2,própria,não possui,não possui,6742,30,rádio/TV,
+38,masculino,3,própria,pouco,não possui,7814,24,carro,0.0
+48,masculino,2,gratuita,não possui,não possui,9277,24,carro,0.0
+36,masculino,2,própria,não possui,moderado,2181,30,carro,0.0
+65,feminino,0,própria,pouco,não possui,1098,18,rádio/TV,
+43,masculino,2,própria,pouco,moderado,4057,24,móveis/equipamentos,0.0
+53,feminino,2,própria,pouco,pouco,795,12,educação,1.0
+34,masculino,2,própria,não possui,moderado,2825,24,negócios,0.0
+23,masculino,2,própria,pouco,moderado,15672,48,negócios,1.0
+34,masculino,3,própria,pouco,não possui,6614,36,carro,0.0
+40,masculino,2,alugada,não possui,não possui,7824,28,carro,0.0
+43,masculino,3,própria,pouco,pouco,2442,27,negócios,1.0
+46,masculino,2,própria,pouco,não possui,1829,15,rádio/TV,0.0
+38,masculino,1,própria,pouco,pouco,2171,12,carro,0.0
+34,masculino,2,própria,pouco,moderado,5800,36,carro,0.0
+29,masculino,2,própria,não possui,não possui,1169,18,rádio/TV,1.0
+31,masculino,3,própria,não possui,não possui,8947,36,carro,0.0
+28,feminino,3,alugada,pouco,pouco,2606,21,rádio/TV,0.0
+35,feminino,2,própria,rico,não possui,1592,12,móveis/equipamentos,0.0
+33,feminino,1,alugada,não possui,não possui,2186,15,móveis/equipamentos,0.0
+42,masculino,2,própria,pouco,pouco,4153,18,móveis/equipamentos,
+43,masculino,2,alugada,pouco,pouco,2625,16,carro,0.0
+44,masculino,2,própria,não possui,não possui,3485,20,carro,
+42,masculino,2,gratuita,não possui,não possui,10477,36,carro,
+40,masculino,2,alugada,não possui,não possui,1386,15,rádio/TV,0.0
+36,masculino,3,própria,pouco,não possui,1278,24,rádio/TV,0.0
+20,masculino,3,alugada,pouco,pouco,1107,12,rádio/TV,0.0
+24,masculino,1,própria,não possui,pouco,3763,21,carro,0.0
+27,masculino,2,própria,não possui,moderado,3711,36,educação,1.0
+46,feminino,1,própria,pouco,não possui,3594,15,carro,0.0
+33,feminino,1,própria,não possui,moderado,3195,9,carro,1.0
+34,feminino,2,própria,pouco,não possui,4454,36,rádio/TV,0.0
+25,feminino,1,própria,pouco,moderado,4736,24,móveis/equipamentos,1.0
+25,feminino,2,própria,não possui,moderado,2991,30,rádio/TV,0.0
+28,masculino,2,própria,rico,não possui,2142,11,negócios,1.0
+31,masculino,2,alugada,pouco,pouco,3161,24,negócios,0.0
+32,feminino,3,própria,pouco,moderado,18424,48,férias/outros,1.0
+32,masculino,2,própria,moderado,não possui,2848,10,carro,1.0
+68,masculino,3,própria,pouco,pouco,14896,6,carro,1.0
+33,masculino,2,própria,moderado,pouco,2359,24,móveis/equipamentos,0.0
+39,masculino,3,alugada,pouco,pouco,3345,24,móveis/equipamentos,0.0
+28,feminino,2,própria,pouco,não possui,1817,18,móveis/equipamentos,0.0
+37,masculino,3,própria,bastante,não possui,12749,48,rádio/TV,1.0
+22,feminino,2,alugada,pouco,pouco,1366,9,rádio/TV,1.0
+30,masculino,2,alugada,pouco,moderado,2002,12,carro,0.0
+55,masculino,2,própria,pouco,pouco,6872,24,móveis/equipamentos,
+46,masculino,2,própria,pouco,pouco,697,12,carro,0.0
+21,feminino,2,alugada,pouco,pouco,1049,18,móveis/equipamentos,0.0
+39,masculino,2,gratuita,pouco,pouco,10297,48,carro,1.0
+58,masculino,2,própria,não possui,não possui,1867,30,rádio/TV,0.0
+43,masculino,1,própria,pouco,pouco,1344,12,carro,0.0
+24,masculino,1,própria,pouco,pouco,1747,24,móveis/equipamentos,0.0
+22,feminino,2,própria,pouco,moderado,1670,9,rádio/TV,1.0
+30,masculino,2,própria,pouco,não possui,1224,9,carro,1.0
+42,masculino,2,própria,bastante,não possui,522,12,rádio/TV,0.0
+23,feminino,2,própria,pouco,pouco,1498,12,rádio/TV,0.0
+30,masculino,3,própria,moderado,moderado,1919,30,rádio/TV,0.0
+28,feminino,1,própria,pouco,rico,745,9,rádio/TV,1.0
+30,masculino,3,alugada,pouco,moderado,2063,6,rádio/TV,1.0
+42,masculino,2,gratuita,pouco,moderado,6288,60,educação,
+46,masculino,3,própria,não possui,não possui,6842,24,carro,1.0
+45,masculino,3,própria,não possui,não possui,3527,12,carro,1.0
+31,masculino,1,própria,pouco,não possui,1546,10,carro,1.0
+31,masculino,2,própria,não possui,não possui,929,24,móveis/equipamentos,0.0
+42,masculino,1,própria,pouco,não possui,1455,4,carro,1.0
+46,feminino,2,alugada,pouco,pouco,1845,15,móveis/equipamentos,1.0
+30,feminino,2,própria,bastante,moderado,8358,48,carro,0.0
+30,masculino,2,gratuita,bastante,pouco,3349,24,móveis/equipamentos,0.0
+38,masculino,3,própria,não possui,não possui,2859,12,carro,
+43,masculino,1,própria,pouco,não possui,1533,18,móveis/equipamentos,0.0
+31,masculino,2,própria,moderado,não possui,3621,24,rádio/TV,0.0
+40,masculino,0,própria,pouco,moderado,3590,18,negócios,0.0
+24,masculino,2,própria,pouco,pouco,2145,36,negócios,1.0
+28,feminino,2,alugada,bastante,moderado,4113,24,carro,0.0
+26,feminino,3,própria,pouco,não possui,10974,36,móveis/equipamentos,1.0
+29,feminino,2,própria,pouco,pouco,1893,12,carro,0.0
+57,feminino,3,alugada,rico,pouco,1231,24,rádio/TV,0.0
+49,masculino,1,própria,não possui,rico,3656,30,rádio/TV,0.0
+37,masculino,1,própria,pouco,moderado,1154,9,rádio/TV,1.0
+45,masculino,1,própria,pouco,pouco,4006,28,carro,0.0
+30,masculino,2,gratuita,moderado,moderado,3069,24,móveis/equipamentos,0.0
+30,masculino,2,alugada,pouco,não possui,1740,6,rádio/TV,1.0
+47,masculino,2,própria,pouco,moderado,2353,21,carro,0.0
+29,masculino,2,própria,não possui,não possui,3556,15,carro,1.0
+35,masculino,2,própria,bastante,não possui,2397,24,rádio/TV,0.0
+22,masculino,1,própria,pouco,moderado,454,6,reparos,1.0
+26,feminino,2,própria,não possui,moderado,1715,30,rádio/TV,0.0
+23,masculino,1,própria,bastante,moderado,2520,27,rádio/TV,0.0
+54,feminino,3,alugada,pouco,não possui,3568,15,rádio/TV,0.0
+29,masculino,2,alugada,não possui,não possui,7166,42,rádio/TV,1.0
+40,masculino,1,própria,pouco,pouco,3939,11,carro,1.0
+22,masculino,2,própria,moderado,moderado,1514,15,reparos,1.0
+43,masculino,1,própria,pouco,não possui,7393,24,carro,0.0
+29,feminino,0,alugada,pouco,pouco,1193,24,carro,0.0
+36,masculino,2,alugada,pouco,pouco,7297,60,negócios,
+33,feminino,2,própria,pouco,não possui,2831,30,rádio/TV,
+57,feminino,1,própria,bastante,rico,1258,24,rádio/TV,0.0
+64,feminino,2,própria,pouco,moderado,753,6,rádio/TV,1.0
+42,masculino,2,própria,não possui,moderado,2427,18,negócios,0.0
+47,masculino,1,própria,pouco,não possui,2538,24,carro,0.0
+25,masculino,2,alugada,moderado,moderado,1264,15,carro,1.0
+49,masculino,2,própria,pouco,moderado,8386,30,móveis/equipamentos,0.0
+33,masculino,3,alugada,pouco,não possui,4844,48,negócios,0.0
+28,feminino,3,própria,moderado,rico,2923,21,carro,0.0
+26,masculino,2,própria,pouco,pouco,8229,36,carro,1.0
+30,masculino,1,própria,pouco,não possui,2028,24,móveis/equipamentos,0.0
+25,feminino,2,alugada,pouco,pouco,1433,15,móveis/equipamentos,0.0
+33,masculino,2,própria,pouco,rico,6289,42,negócios,
+64,feminino,2,própria,moderado,não possui,1409,13,rádio/TV,1.0
+29,masculino,3,gratuita,pouco,pouco,6579,24,carro,0.0
+48,masculino,1,própria,pouco,moderado,1743,24,rádio/TV,0.0
+37,masculino,1,própria,não possui,não possui,3565,12,educação,0.0
+34,masculino,1,própria,moderado,não possui,1569,15,rádio/TV,0.0
+23,masculino,1,alugada,não possui,pouco,1936,18,rádio/TV,0.0
+30,masculino,3,própria,pouco,pouco,3959,36,móveis/equipamentos,0.0
+50,masculino,2,própria,não possui,não possui,2390,12,carro,0.0
+31,feminino,1,própria,pouco,não possui,1736,12,móveis/equipamentos,0.0
+40,masculino,3,própria,pouco,pouco,3857,30,carro,0.0
+38,masculino,2,própria,pouco,não possui,804,12,rádio/TV,0.0
+23,masculino,2,gratuita,pouco,pouco,1845,45,rádio/TV,
+27,masculino,2,própria,moderado,moderado,4576,45,carro,1.0
