@@ -3,48 +3,38 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-def plot_categorical(column_data, column_name):
-    fig, ax1 = plt.subplots(figsize=(10, 6))
 
-    # Criar eixo secundário
-    ax2 = ax1.twinx()
-
-    # Plotando porcentagem no eixo à esquerda
-    percentage = (column_data.value_counts(normalize=True) * 100).sort_values(ascending=False)
-    ax1.bar(percentage.index, percentage.values, color='skyblue', alpha=0.7, label='Porcentagem')
-    ax1.set_ylabel('Porcentagem (%)')
-    ax1.set_xlabel(column_name)
-    ax1.tick_params(axis='x', rotation=45)
-    ax1.legend(loc='upper left')
-
-    # Plotando volumetria no eixo à direita
-    volume = column_data.value_counts().sort_values(ascending=False)
-    ax2.plot(volume.index, volume.values, color='blue', marker='o', label='Frequência')
-    ax2.set_ylabel('Frequência')
-    ax2.legend(loc='upper right')
-
-    # Título do gráfico
-    plt.title(f'Distribuição de {column_name}')
+def plot_categorical(data, categorical_column, hue_column="pagamento_realizado"):
+    plt.figure(figsize=(10, 6))
+    sns.countplot(data=data, x=categorical_column, hue=hue_column, palette=["#1f77b4", "#ff7f0e"])
+    plt.title(f"Distribuição de {categorical_column} por {hue_column}", fontsize=14)
+    plt.xlabel(categorical_column, fontsize=12)
+    plt.ylabel("Contagem", fontsize=12)
+    plt.xticks(rotation=45, fontsize=10)
+    plt.legend(title=hue_column)
     plt.tight_layout()
     plt.show()
 
-def plot_numerical(column_data, column_name):
-    plt.figure(figsize=(8, 6))
-    sns.histplot(column_data, kde=True, bins=20, color='blue')
-    plt.title(f'Distribuição de {column_name}')
-    plt.xlabel(column_name)
-    plt.ylabel('Frequência')
+def plot_numerical(data, numerical_column, hue_column="pagamento_realizado"):
+    plt.figure(figsize=(10, 6))
+    sns.histplot(data=data, x=numerical_column, hue=hue_column, kde=False, palette=["#1f77b4", "#ff7f0e"], bins=30, multiple="stack")
+    plt.title(f"Distribuição de {numerical_column} por {hue_column}", fontsize=14)
+    plt.xlabel(numerical_column, fontsize=12)
+    plt.ylabel("Densidade", fontsize=12)
+    plt.xticks(fontsize=10)
+    plt.legend(title=hue_column)
     plt.tight_layout()
     plt.show()
+
 
 def plot_data_types(df):
     for column in df.columns:
         if pd.api.types.is_categorical_dtype(df[column]):
             print(f"Plotando variável categórica: {column}")
-            plot_categorical(df[column], column)
+            plot_categorical(df, column)
         elif pd.api.types.is_numeric_dtype(df[column]):
             print(f"Plotando variável numérica: {column}")
-            plot_numerical(df[column], column)
+            plot_numerical(df, column)
 
 df = pd.read_csv('german_credit_data.csv')
 
@@ -118,7 +108,6 @@ for coluna in df.columns:
     if df[coluna].dtype == "object":
         df[coluna] = df[coluna].astype("category")
 
-plot_data_types(df)
 
 df["pagamento_realizado"] = np.where(
     ((df["quantidade_credito"] < 5000) & (df["duracao"] < 12)) |
@@ -127,11 +116,10 @@ df["pagamento_realizado"] = np.where(
     ((df["idade"] > 40) & (df["sexo"] == "masculino") & (df["trabalho"] == 3)) |
     ((df["idade"] > 40) & (df["sexo"] == "feminino") & (df["trabalho"] == 2)) |
     ((df["quantidade_credito"] > 10000) & (df["duracao"] > 24)),
-    1,  # Pagamento realizado
-    0   # Pagamento não realizado
+    1,
+    0
 )
 
-indices_to_remove = df[df["pagamento_realizado"].notna()].sample(n=100, random_state=42).index
-df.loc[indices_to_remove, "pagamento_realizado"] = np.nan
+plot_data_types(df)
 
 df.to_csv("german_credit_data_preprocessed.csv", index=False)
